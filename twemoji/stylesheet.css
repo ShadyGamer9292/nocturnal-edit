@@ -1,0 +1,11 @@
+/*https://fourinchknife.github.io/silly-badges/twemoji/stylesheet.css*/
+/*This is Twitter's Twemoji, used for emoji in Discord*/
+
+@font-face {
+    font-family: 'Twemoji';
+    src: url('https://fourinchknife.github.io/silly-badges/twemoji/twittercoloremoji-svginot-webfont.woff2') format('woff2'),
+         url('https://fourinchknife.github.io/silly-badges/twemoji/twittercoloremoji-svginot-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
